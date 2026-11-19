@@ -1,0 +1,6 @@
+{
+  "name": "ShowCase Innovación Bci",
+  "description": "Plataforma showcase de módulos de innovación digital Bci en ambiente Sandbox: Instalar Plugin, Conversación y Simulación.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
